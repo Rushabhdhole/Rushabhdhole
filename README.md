@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Full Stack Java**
 
-- 💬 Ask me about **Full Stack Developement**
+- 💬 Ask me about **Java Full Stack Developement**
 
 - 📫 How to reach me **jainrishi3399@gmail.com**
 
